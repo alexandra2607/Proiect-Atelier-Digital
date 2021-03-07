@@ -6,4 +6,4 @@
   
 ### Strategy Pattern:
   * Problema: Dupa terminarea pandemiei oamenii vor incepe sa sarbatoreasca diverse evenimente, este dificil sa faceti alegerile potrivite in functie de buget.
-  * Solutie: Un program care ofera 3 pachete cu servicii diferite in functie de bugetul fiecarura.
+  * Solutie: Un program care ofera 3 pachete cu servicii diferite in functie de bugetul fiecaruia.
